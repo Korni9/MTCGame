@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1Hw4T5Dcv89veZmMLwvirL0z6tZh7Wq3UY90PX5d8R7Tzb1qwJ35yRldT8O8HE8z1PUUGWw2zFC/9OlTPn0YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korn\\source\\repos\\MTCGame\\MTCGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korn\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Korn\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Korn\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\Korn\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Korn\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\Korn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
